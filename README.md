@@ -80,7 +80,7 @@
 
 3. Import preprocessed CSVs into Neo4j with neo4j-admin import for fastest import
 -  Move files from data/output/inference/_split_X_run_Y to neo4j import folder
--  Open database Terminal and run the command for neo4j a
+-  Open database Terminal and run the command for neo4j admin import
      ```bash
    .\bin\neo4j-admin.bat database import full neo4j \
     --overwrite-destination \
