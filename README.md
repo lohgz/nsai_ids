@@ -41,7 +41,7 @@
    
 2. Create & activate a virtual environment
 
-3. Install required Python packages  
+3. Install required Python packages (Core only: min. packages for PyReason)
    ```bash
    pip install -r requirements.txt
 
