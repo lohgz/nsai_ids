@@ -41,7 +41,7 @@
    
 2. Create & activate a virtual environment
 
-3. Install required Python packages (Core only: min. packages for PyReason)
+3. Install required Python packages (Install the PyTorch version that matches your CUDA toolkit to enable GPU support.)
    ```bash
    pip install -r requirements.txt
 
